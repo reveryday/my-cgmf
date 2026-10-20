@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: CGMFtk
+Version: 1.1.2
+Summary: Package to analyze CGMF history files
+Author: CGMF Development Team
+Author-email: cgmf_dev@lanl.gov
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
