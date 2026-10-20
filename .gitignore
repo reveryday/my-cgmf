@@ -1,4 +1,11 @@
+/.github/
+# 编译目录
+/build/
+
+# macOS 系统文件
 .DS_Store
-__pycache__
-.github
-build
+._*
+
+# Python 缓存
+__pycache__/
+*.pyc
